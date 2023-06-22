@@ -11,7 +11,7 @@ const About = () => {
       {photo && (
         <img
           className='rounded-image'
-          height='200px'
+          height='250px'
           alt='Avatar placeholder'
           src={photo}
         />
