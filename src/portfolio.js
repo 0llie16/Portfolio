@@ -1,12 +1,10 @@
-import aboutpic from "./components/Access/profile-pic.jpg"
-
 const header = {
-  homepage: 'ollieflorendo.com',
+  homepage: 'https://ollieflorendo.com/portfolio/',
   title: 'JS.',
 }
 
 const about = {
-  photo:aboutpic,
+  photo: "https://ollieflorendo.com/images/profilePic.jpeg",
   name: 'Oliver Florendo',
   role: 'Front End Developer',
   description:
@@ -66,6 +64,7 @@ const skills = [
   'CSS',
   'JavaScript',
   'React',
+  'Wordpress',
 ]
 
 const contact = {
